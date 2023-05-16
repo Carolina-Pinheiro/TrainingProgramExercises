@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/junk.t.sol",
+    "id": 29816,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "0:0:30",
+    "nodes": []
+  },
+  "id": 30
+}

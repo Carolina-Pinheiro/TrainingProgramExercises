@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "src/CTF3.sol",
+    "id": 26757,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "0:0:19",
+    "nodes": []
+  },
+  "id": 19
+}
